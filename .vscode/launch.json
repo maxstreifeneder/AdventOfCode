@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Day01",
+            "request": "launch",
+            "mainClass": "com.streifeneder.max.Day01",
+            "projectName": "aoc"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - App",
+            "request": "launch",
+            "mainClass": "com.streifeneder.max.App",
+            "projectName": "aoc"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Day1",
+            "request": "launch",
+            "mainClass": "com.streifeneder.max.Day1",
+            "projectName": "aoc"
+        }
+    ]
+}

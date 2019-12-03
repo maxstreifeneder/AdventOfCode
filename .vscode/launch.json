@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Day02",
+            "request": "launch",
+            "mainClass": "com.streifeneder.max.Day02",
+            "projectName": "aoc"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Day01",
             "request": "launch",
             "mainClass": "com.streifeneder.max.Day01",
